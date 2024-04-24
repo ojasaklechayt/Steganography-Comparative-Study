@@ -1,0 +1,8 @@
+xlwt
+opencv-python
+numpy
+matplotlib
+pillow
+pathlib
+scipy
+scikit-image
